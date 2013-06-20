@@ -1,0 +1,414 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="856" measuredH="541" mockupW="664" mockupH="541">
+  <controls>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="192" y="0" w="664" h="541" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="838" y="73" w="-1" h="442" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>0</value>
+      </controlProperties>
+    </control>
+    <control controlID="224" controlTypeID="com.balsamiq.mockups::HRule" x="192" y="103" w="646" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <stroke>solid</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="288" controlTypeID="com.balsamiq.mockups::Label" x="488" y="82" w="68" h="-1" measuredW="34" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="289" controlTypeID="com.balsamiq.mockups::Label" x="760" y="82" w="68" h="-1" measuredW="41" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="291" controlTypeID="com.balsamiq.mockups::Label" x="556" y="82" w="68" h="-1" measuredW="37" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="292" controlTypeID="com.balsamiq.mockups::Label" x="624" y="82" w="68" h="-1" measuredW="49" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Network</text>
+      </controlProperties>
+    </control>
+    <control controlID="293" controlTypeID="com.balsamiq.mockups::Label" x="692" y="82" w="68" h="-1" measuredW="51" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="298" controlTypeID="com.balsamiq.mockups::Label" x="198" y="82" w="172" h="-1" measuredW="138" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Accounting%20Connection</text>
+      </controlProperties>
+    </control>
+    <control controlID="349" controlTypeID="com.balsamiq.mockups::VRule" x="536" y="139" w="-1" h="358" measuredW="10" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="377" controlTypeID="com.balsamiq.mockups::Canvas" x="546" y="146" w="285" h="88" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="378" controlTypeID="com.balsamiq.mockups::TextArea" x="547" y="120" w="222" h="26" measuredW="200" measuredH="140" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>What%20is%20popular%3F</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="379" controlTypeID="com.balsamiq.mockups::Image" x="546" y="251" w="40" h="40" measuredW="77" measuredH="79" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="380" controlTypeID="com.balsamiq.mockups::TextArea" x="603" y="250" w="213" h="25" measuredW="200" measuredH="140" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Meiko%20Wong</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="381" controlTypeID="com.balsamiq.mockups::TextArea" x="603" y="288" w="203" h="63" measuredW="200" measuredH="140" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>What%20is%20the%20latest%20update%20on%20the%20new%20Australia%20accounting%20standards%3F</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="382" controlTypeID="com.balsamiq.mockups::TextArea" x="603" y="269" w="213" h="24" measuredW="200" measuredH="140" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Asked%20a%20question</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="383" controlTypeID="com.balsamiq.mockups::HRule" x="546" y="236" w="282" h="-1" measuredW="100" measuredH="10" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <stroke>solid</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="385" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="553" y="151" w="129" h="79" measuredW="118" measuredH="79" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>%5B%20%5D%20Accounting%20Systems%0A%5Bx%5D%20Financial%20Accounting%0A%5B%5D%20Management%20Accounting%0A%5B%20%5D%20Environmental%20Accounting</text>
+      </controlProperties>
+    </control>
+    <control controlID="386" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="692" y="151" w="129" h="79" measuredW="110" measuredH="79" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>%5Bx%5D%20Forensic%20Accounting%0A%5B%5D%20Fund%20Accounting%0A%5B%20%5D%20Government%20Accounting%0A%5B%5D%20Tax</text>
+      </controlProperties>
+    </control>
+    <control controlID="387" controlTypeID="com.balsamiq.mockups::TextArea" x="214" y="146" w="311" h="37" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>10066329</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text/>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="388" controlTypeID="com.balsamiq.mockups::TextArea" x="214" y="120" w="148" h="26" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>What%27s%20on%20your%20mind%3F</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="389" controlTypeID="com.balsamiq.mockups::Image" x="214" y="243" w="40" h="40" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="390" controlTypeID="com.balsamiq.mockups::HRule" x="214" y="234" w="317" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <stroke>solid</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="391" controlTypeID="com.balsamiq.mockups::TextArea" x="266" y="242" w="266" h="25" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Fred%20Smith</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="392" controlTypeID="com.balsamiq.mockups::TextArea" x="340" y="284" w="148" h="63" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Changes%20in%20Mexico%27s%20tax%20laws%20will%20make%20it%20easier%20to%20finance%20investment%20in%20Mexico</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="393" controlTypeID="com.balsamiq.mockups::Image" x="270" y="284" w="62" h="62" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="394" controlTypeID="com.balsamiq.mockups::TextArea" x="266" y="259" w="266" h="24" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Shared%20a%20link</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="397" controlTypeID="com.balsamiq.mockups::TextArea" x="214" y="208" w="266" h="26" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>What%20your%20network%20is%20saying</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="410" controlTypeID="com.balsamiq.mockups::Image" x="214" y="414" w="40" h="40" measuredW="77" measuredH="79" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="411" controlTypeID="com.balsamiq.mockups::HRule" x="214" y="405" w="317" h="-1" measuredW="100" measuredH="10" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <stroke>solid</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="412" controlTypeID="com.balsamiq.mockups::TextArea" x="266" y="413" w="266" h="25" measuredW="200" measuredH="140" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Benny%20Binkerton</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="413" controlTypeID="com.balsamiq.mockups::TextArea" x="266" y="449" w="221" h="63" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>What%20is%20the%20best%20way%20to%20write%20off%20bad%20debt%20caused%20by%20insurance%20fraud%3F</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="414" controlTypeID="com.balsamiq.mockups::TextArea" x="266" y="430" w="266" h="24" measuredW="200" measuredH="140" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Asked%20a%20question</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="415" controlTypeID="com.balsamiq.mockups::TextArea" x="300" y="352" w="189" h="37" measuredW="200" measuredH="140" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Allan%20Reynolds%3A%20Great%20article.%20Do%20you%20think%20it%20will%20take%20long%20to%20implement%3F</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="416" controlTypeID="com.balsamiq.mockups::Image" x="273" y="352" w="27" h="27" measuredW="77" measuredH="79" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="417" controlTypeID="com.balsamiq.mockups::TextArea" x="638" y="328" w="189" h="47" measuredW="200" measuredH="140" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Carlo%20Alberts%3A%20Use%20this%20link%20%0Awww.accounting.org.au</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="418" controlTypeID="com.balsamiq.mockups::Image" x="611" y="328" w="27" h="27" measuredW="77" measuredH="79" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="419" controlTypeID="com.balsamiq.mockups::Image" x="546" y="404" w="40" h="40" measuredW="77" measuredH="79" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="420" controlTypeID="com.balsamiq.mockups::TextArea" x="605" y="397" w="221" h="25" measuredW="200" measuredH="140" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Alison%20Brewer</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="421" controlTypeID="com.balsamiq.mockups::TextArea" x="605" y="439" w="210" h="63" measuredW="200" measuredH="140" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Who%20is%20the%20leading%20firm%20for%20managing%20cross%20border%20tax%3F</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="422" controlTypeID="com.balsamiq.mockups::TextArea" x="605" y="414" w="221" h="24" measuredW="200" measuredH="140" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Asked%20a%20question</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="423" controlTypeID="com.balsamiq.mockups::HRule" x="546" y="389" w="282" h="-1" measuredW="100" measuredH="10" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <stroke>solid</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="424" controlTypeID="com.balsamiq.mockups::Link" x="611" y="370" w="-1" h="-1" measuredW="21" measuredH="17" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <state>up</state>
+        <text>Like</text>
+      </controlProperties>
+    </control>
+    <control controlID="425" controlTypeID="com.balsamiq.mockups::Link" x="641" y="370" w="-1" h="-1" measuredW="49" measuredH="17" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <state>up</state>
+        <text>Comment</text>
+      </controlProperties>
+    </control>
+    <control controlID="426" controlTypeID="com.balsamiq.mockups::Link" x="703" y="370" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <state>up</state>
+        <text>Share</text>
+      </controlProperties>
+    </control>
+    <control controlID="430" controlTypeID="__group__" x="613" y="476" w="122" h="17" measuredW="122" measuredH="17" zOrder="45" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="0" y="0" w="-1" h="-1" measuredW="21" measuredH="17" zOrder="0" locked="false" isInGroup="430">
+          <controlProperties>
+            <size>11</size>
+            <state>up</state>
+            <text>Like</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="30" y="0" w="-1" h="-1" measuredW="49" measuredH="17" zOrder="1" locked="false" isInGroup="430">
+          <controlProperties>
+            <size>11</size>
+            <state>up</state>
+            <text>Comment</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="92" y="0" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="2" locked="false" isInGroup="430">
+          <controlProperties>
+            <size>11</size>
+            <state>up</state>
+            <text>Share</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="431" controlTypeID="__group__" x="273" y="487" w="122" h="17" measuredW="122" measuredH="17" zOrder="46" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="0" y="0" w="-1" h="-1" measuredW="21" measuredH="17" zOrder="0" locked="false" isInGroup="431">
+          <controlProperties>
+            <size>11</size>
+            <state>up</state>
+            <text>Like</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="30" y="0" w="-1" h="-1" measuredW="49" measuredH="17" zOrder="1" locked="false" isInGroup="431">
+          <controlProperties>
+            <size>11</size>
+            <state>up</state>
+            <text>Comment</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="92" y="0" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="2" locked="false" isInGroup="431">
+          <controlProperties>
+            <size>11</size>
+            <state>up</state>
+            <text>Share</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="432" controlTypeID="__group__" x="273" y="389" w="122" h="17" measuredW="122" measuredH="17" zOrder="47" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="0" y="0" w="-1" h="-1" measuredW="21" measuredH="17" zOrder="0" locked="false" isInGroup="432">
+          <controlProperties>
+            <size>11</size>
+            <state>up</state>
+            <text>Like</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="30" y="0" w="-1" h="-1" measuredW="49" measuredH="17" zOrder="1" locked="false" isInGroup="432">
+          <controlProperties>
+            <size>11</size>
+            <state>up</state>
+            <text>Comment</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="92" y="0" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="2" locked="false" isInGroup="432">
+          <controlProperties>
+            <size>11</size>
+            <state>up</state>
+            <text>Share</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
