@@ -100,17 +100,17 @@
         <text>Choose%20File</text>
       </controlProperties>
     </control>
-    <control controlID="139" controlTypeID="com.balsamiq.mockups::Button" x="371" y="349" w="68" h="25" measuredW="64" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Button" x="371" y="355" w="68" h="25" measuredW="64" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Upload</text>
       </controlProperties>
     </control>
-    <control controlID="140" controlTypeID="com.balsamiq.mockups::Link" x="465" y="352" w="-1" h="-1" measuredW="42" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Link" x="465" y="358" w="-1" h="-1" measuredW="42" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Cancel</text>
       </controlProperties>
     </control>
-    <control controlID="141" controlTypeID="com.balsamiq.mockups::Label" x="439" y="351" w="26" h="-1" measuredW="13" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Label" x="439" y="357" w="26" h="-1" measuredW="13" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>or</text>
